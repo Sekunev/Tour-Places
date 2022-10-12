@@ -8,7 +8,7 @@ Project aims to create a tour places app.
 
 ### Visualization of the Website
 
-![image](https://github.com/Sekunev/Image-Album/blob/main/Animation.gif)
+![image](https://github.com/Sekunev/Tour-Places/blob/main/src/Animation.gif)
 
 ### Project Skeleton
 
@@ -38,6 +38,7 @@ SOLUTION
 │    │       └── _variables.scss
 │    │       └── _reset.scss
 │    ├── App.js
+│    ├── Animation.gif
 │    ├── App.css
 │    ├── index.js
 │    └── index.css
